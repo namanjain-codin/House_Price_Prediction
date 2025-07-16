@@ -1,7 +1,7 @@
 # House_Price_Prediction
 This project demonstrates a machine learning pipeline to predict house prices using the Boston Housing Dataset. It covers data preprocessing, model training with multiple regression algorithms, evaluation, and visualization — all implemented in Python using Scikit-learn, Pandas, and Matplotlib.
 
-# Project Overview
+## Project Overview
 Goal: Predict house prices based on features like crime rate, number of rooms, tax rate, etc.
 
 Dataset: Boston Housing Dataset (built-in with Scikit-learn).
@@ -16,7 +16,7 @@ Lasso Regression
 
 Ridge Regression
 
-# Technologies Used
+## Technologies Used
 Python
 
 Scikit-learn
@@ -31,7 +31,7 @@ Seaborn
 
 Jupyter Notebook
 
-# How It Works
+## How It Works
 1️⃣ Load the Dataset: Import the Boston Housing data and convert it into a Pandas DataFrame.
 
 2️⃣ Data Preprocessing:
@@ -62,9 +62,11 @@ Plot predictions vs actual prices.
 
 Visualize feature importance (if applicable).
 
-# Key Learning
-📃 Key Learnings
+## Key Learning
 ✅ Hands-on practice with regression models.
+
 ✅ Understanding regularization techniques (Lasso & Ridge).
+
 ✅ Visualizing model performance and interpreting results.
+
 ✅ End-to-end ML workflow using Scikit-learn.
