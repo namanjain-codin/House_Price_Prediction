@@ -15,3 +15,20 @@ Linear Regression
 Lasso Regression
 
 Ridge Regression
+
+# Technologies Used
+Python
+
+Scikit-learn
+
+Pandas
+
+NumPy
+
+Matplotlib
+
+Seaborn
+
+Jupyter Notebook
+
+
