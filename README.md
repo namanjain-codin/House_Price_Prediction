@@ -31,4 +31,40 @@ Seaborn
 
 Jupyter Notebook
 
+# How It Works
+1️⃣ Load the Dataset: Import the Boston Housing data and convert it into a Pandas DataFrame.
 
+2️⃣ Data Preprocessing:
+
+Handle missing values (if any).
+
+Perform feature scaling and encoding as needed.
+
+Visualize feature distributions and relationships.
+
+3️⃣ Model Building:
+
+Split data into training and testing sets.
+
+Train Linear, Lasso, and Ridge Regression models.
+
+4️⃣ Evaluation:
+
+Predict house prices on test data.
+
+Evaluate performance using R² score and RMSE.
+
+Compare results across models.
+
+5️⃣ Visualization:
+
+Plot predictions vs actual prices.
+
+Visualize feature importance (if applicable).
+
+# Key Learning
+📃 Key Learnings
+✅ Hands-on practice with regression models.
+✅ Understanding regularization techniques (Lasso & Ridge).
+✅ Visualizing model performance and interpreting results.
+✅ End-to-end ML workflow using Scikit-learn.
